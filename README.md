@@ -17,7 +17,7 @@ tail -f /var/log/bootstrap.log
 - add path /explorer to url to open ui
 - /explorer/swagger.json - swagger def
 
-### folders:
+### other info:
 
-- lb-example - container with proxy
+- lb-example - container with the proxy
 - /i3c/data/lb-example/loopback-example-connector - sources
