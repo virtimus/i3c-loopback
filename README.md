@@ -16,5 +16,5 @@ tail -f /var/log/bootstrap.log
 ```
 - add path /explorer to url to open ui
 
-lb-example - container with proxy
-/i3c/data/lb-example/loopback-example-connector - sources
+- lb-example - container with proxy
+- /i3c/data/lb-example/loopback-example-connector - sources
