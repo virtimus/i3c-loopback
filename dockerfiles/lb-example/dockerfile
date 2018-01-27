@@ -1,0 +1,7 @@
+FROM i3c/base/alpine
+
+COPY build-example.sh /
+COPY run-example.sh /
+COPY run.sh /
+RUN chmod a+x /*.sh
+CMD ["/run.sh"]
