@@ -15,6 +15,9 @@ tail -f /var/log/bootstrap.log
 {"started":"2018-01-27T14:05:27.663Z","uptime":795.185}
 ```
 - add path /explorer to url to open ui
+- /explorer/swagger.json - swagger def
+
+### folders:
 
 - lb-example - container with proxy
 - /i3c/data/lb-example/loopback-example-connector - sources
